@@ -1,0 +1,54 @@
+Detection log started
+Detection log started
+Detection log started
+No target object detected.
+🚨 Detected: ['person', 'person'] at 2025-04-15_23-56-18
+🚨 Detected: ['person', 'person'] at 2025-04-15_23-56-33
+🚨 Detected: ['person'] at 2025-04-15_23-56-44
+Detection log started
+No target object detected.
+🚨 Detected: ['person'] at 2025-04-16_00-07-36
+Detection log started
+🚨 Detected: ['person'] at 2025-04-16_01-16-50
+🚨 Detected: ['person'] at 2025-04-16_01-16-58
+🚨 Detected: ['person'] at 2025-04-16_01-17-05
+Detection log started
+Detection log started
+Detection log started
+Detection log started
+No target object detected.
+No target object detected.
+🚨 Detected: ['person'] at 2025-04-16_07-54-46
+No target object detected.
+🚨 Detected: ['person'] at 2025-04-16_07-54-51
+🚨 Detected: ['person'] at 2025-04-16_07-54-55
+No target object detected.
+No target object detected.
+🚨 Detected: ['person'] at 2025-04-16_07-55-00
+🚨 Detected: ['person'] at 2025-04-16_07-55-04
+No target object detected.
+🚨 Detected: ['person'] at 2025-04-16_07-55-09
+Detection log started
+🚨 Detected: ['person'] at 2025-04-16_08-04-59
+Detection log started
+🚨 Detected: ['person'] at 2025-04-16_08-20-39
+🚨 Detected: ['person'] at 2025-04-16_08-20-45
+🚨 Detected: ['person'] at 2025-04-16_08-20-50
+Detection log started
+🚨 Detected: ['person', 'person'] at 2025-04-16_08-23-46
+🚨 Detected: ['person'] at 2025-04-16_08-23-53
+🚨 Detected: ['person'] at 2025-04-16_08-23-57
+Detection log started
+No target object detected.
+No target object detected.
+No target object detected.
+🚨 Detected: ['person'] at 2025-04-16_08-26-21
+🚨 Detected: ['person'] at 2025-04-16_08-26-26
+🚨 Detected: ['person'] at 2025-04-16_08-26-32
+🚨 Detected: ['person'] at 2025-04-16_08-26-37
+🚨 Detected: ['person'] at 2025-04-16_08-26-42
+Detection log started
+🚨 Detected: ['person'] at 2025-04-16_17-34-07
+🚨 Detected: ['person'] at 2025-04-16_17-34-11
+🚨 Detected: ['person', 'person', 'person'] at 2025-04-16_17-34-16
+🚨 Detected: ['person'] at 2025-04-16_17-34-20
